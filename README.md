@@ -1,1 +1,1 @@
-# mkdocs# stratos-doc
+# stratos-doc
